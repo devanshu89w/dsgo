@@ -1,0 +1,5 @@
+{
+  "left": "{\"left\": \"{\\\"left\\\": \\\"{\\\\\\\"left\\\\\\\": null, \\\\\\\"right\\\\\\\": null, \\\\\\\"value\\\\\\\": 1}\\\", \\\"right\\\": null, \\\"value\\\": 5}\", \"right\": null, \"value\": 8}",
+  "right": "{\"left\": null, \"right\": \"{\\\"left\\\": null, \\\"right\\\": \\\"{\\\\\\\"left\\\\\\\": null, \\\\\\\"right\\\\\\\": null, \\\\\\\"value\\\\\\\": 31}\\\", \\\"value\\\": 21}\", \"value\": 11}",
+  "value": 9
+}

@@ -2,6 +2,7 @@ from hashtables.hash_table import  HashTable
 from linkedlist.linked_list import LinkedList
 from stacks.stack import Stack
 from bst.binary_search_tree import BinarySearchTree
+from bst.binary_search_tree import traverse
 
 
 if __name__ == "__main__":
@@ -48,5 +49,9 @@ if __name__ == "__main__":
     bst.insert(9)
     bst.insert(8)
     bst.insert(11)
-    print(bst)
+    bst.insert(5)
+    bst.insert(1)
+    bst.insert(21)
+    bst.insert(31)
+    print(traverse(bst.root))
 
